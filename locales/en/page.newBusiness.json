@@ -1,0 +1,12 @@
+{
+  "test": "eeeeeeee",
+  "tab": {
+    "bought-without-doc": "Bought\nw/o doc",
+    "new": "New",
+    "waiting": "Waiting",
+    "resubmit-or-car-consent": "Re-submit /\nCar consent",
+    "rejected": "Rejected",
+    "approved": "Approved",
+    "all": "All"
+  }
+}
